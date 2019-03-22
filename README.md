@@ -1,4 +1,4 @@
-# houseblock
+# Estate chain
 Estate block: The next-gen real estate
 
 From asset management and investments to operating and management companies, blockchain could potentially have a profound impact across the real estate.
